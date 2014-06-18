@@ -72,4 +72,74 @@
 	padding-left: 6px;
 }
 
+/* Tenth Q */
+.navigation {
+	background-color: #ED828A;
+	border-radius: 5px;
+	height: 40px;
+	margin: 0;
+ 	padding: 0;
+  	list-style: none;
+  	width: 640px;
+
+}
+
+.navigation li {
+  	float: left;
+  	padding-top: 10px;
+
+}
+
+.navigation a {
+	color: white;
+	text-decoration: none;
+	margin: 38px;
+}
+
+.navigation a:hover {
+  color: blue;
+}
+
+nav {
+	text-align: center;
+}
+
+/* Eleventh Q */
+.page {
+	list-style: none;
+}
+
+.page li {
+	display: inline-block;
+	font-size: 1.0em;
+	margin: 10px;
+	border-bottom: 4px solid #ED828A;
+	
+}
+
+.page a {
+	color: #ED828A;
+	text-decoration: none;
+}
+
+
+.page li:first-child, .page li:last-child {
+	border-bottom: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
