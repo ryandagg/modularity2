@@ -31,3 +31,45 @@
 .Hlist {
 	padding: 0;
 }
+
+/* Ninth Q */
+.butt {
+	background-color: #ED828A;
+	border-radius: 5px;
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	vertical-align: middle;
+
+}
+
+.Buy {
+	width: 215px;
+	height: 70px;
+	padding-top: 27px;
+	padding-left: 72px;
+}
+
+.other {
+	width: 160px;
+	height: 40px;
+	border-style: none;
+}
+
+.Learn {
+	width: 160px;
+	height: 40px;
+	padding-top: 10px;
+	padding-left: 37px;
+}
+
+.OK {
+	width: 36px;
+	height: 26px;
+	padding-top: 4px;
+	padding-left: 6px;
+}
+
+
