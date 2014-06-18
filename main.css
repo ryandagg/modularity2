@@ -18,11 +18,16 @@
 
 /* Seventh Q */
 .vert {
-	/*padding: auto;*/
 	padding-top: 15%;
 	padding-bottom: 15%
 }
-/*
-.vert > * {
-	vertical-align: center;
-}*/
+
+/* Eigth Q */
+.Hlist li {
+	display: inline;
+	float: left;
+}
+
+.Hlist {
+	padding: 0;
+}
