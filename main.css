@@ -1,20 +1,28 @@
 /* ADD YOUR STYLES HERE */
 
 /* Sixth Q */
-/* Text align of ol is wrong and spacing between last 2 elements is off */
 .spaced > * {
 	padding: 22px;
 	display: inline-block;
 	vertical-align: top;
+	text-align: left;
 }
 
 .spaced {
 	text-align: center;
+}
 
+.spaced li {
+	margin-left: 30px;
 }
 
 /* Seventh Q */
 .vert {
-	height: 300px;
-
+	/*padding: auto;*/
+	padding-top: 15%;
+	padding-bottom: 15%
 }
+/*
+.vert > * {
+	vertical-align: center;
+}*/
