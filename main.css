@@ -127,12 +127,39 @@ nav {
 	border-bottom: none;
 }
 
+/* Twelth Q */
+.commie img {
+	float: left;
+	/*clear: left;*/
+	/*display: block;*/
 
+	margin-right: 16px;
+	margin-bottom: 16px;
+}
 
+.commie {
+	overflow: auto;
+}
 
+.reply {
+	/*clear: left;*/
+	/*background-color: red;*/
+	overflow: auto;
+}
 
+.replied {
+	/*margin-bottom: 350px;*/
+	overflow: auto;
+}
 
+.commie-text {
+	overflow: auto;
+}
 
+.commie-text time {
+	color: gray;
+	font-size: 0.7em;
+}
 
 
 
